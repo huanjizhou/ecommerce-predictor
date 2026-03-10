@@ -1,0 +1,31 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 旧版本脚本（保留最新的自动进化脚本）
+ecommerce_predictor_v2.py
+ecommerce_predictor_v4.py
+optimize_purchase.py
+optimize_purchase_v2.py
+optimize_purchase_v3.py
+
+# 测试脚本
+check_jan_data.py
+
+# 结果目录（包含大量验证报告）
+results/
+
+# 图表目录
+charts/
+
+# 本地配置文件
+.env
+.env.local
+
+# 开发文档
+DATASET_CORRECTION.md
+AUTO_EVOLUTION_GUIDE.md
+
+# 验证历史（包含详细数据）
+validation_history.json
+__pycache__/
